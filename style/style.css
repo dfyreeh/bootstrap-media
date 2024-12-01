@@ -1,0 +1,63 @@
+.bloc1 {
+  background-color: rgb(31, 192, 255);
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+.bloc2 {
+  background-color: rgb(0, 115, 255);
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+.bloc3 {
+  background-color: rgb(0, 15, 154);
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+.bloc4 {
+  background-color: rgb(185, 0, 0);
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+.bloc5 {
+  background-color: rgb(21, 162, 31);
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+.bloc6 {
+  background-color: rgb(110, 0, 228);
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+
+@media (min-width: 1200px) {
+  .bloc3 {
+    height: 100px;
+  }
+}
+
+@media (min-width: 960px) {
+  .bloc4 {
+    height: 100px;
+  }
+}
+@media (min-width: 720px) {
+  .bloc4 {
+    height: 100px;
+  }
+}
+@media (min-width: 540px) {
+  .bloc4 {
+    height: 100px;
+  }
+}
+@media (min-width: 1px) {
+  .bloc4 {
+    height: 100px;
+  }
+}
